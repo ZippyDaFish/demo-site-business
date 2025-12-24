@@ -17,7 +17,7 @@
 
       <!-- Company Name -->
       <div class="text-2xl font-bold tracking-wide mr-auto">
-        Manufacturing Co.
+        <a href="/">Manufacturing Co.</a>
       </div>
 
       <!-- Centered Navigation -->
@@ -28,6 +28,13 @@
           { $page.url.pathname === '/' ? 'font-semibold border-b-2 border-white pb-1' : '' }"
         >
           Home
+        </a>
+        <a
+          href="/services"
+          class="transition-colors duration-200 hover:text-gray-200
+          { $page.url.pathname === '/services' ? 'font-semibold border-b-2 border-white pb-1' : '' }"
+        >
+          Services
         </a>
         <a
           href="/about"

@@ -14,7 +14,7 @@
 
     <div class="space-y-6">
     <div class="p-4 border-l-4 border-blue-700 bg-gray-50">
-    <p class="text-gray-700 italic">“Small Manufacturing Co. consistently delivers high‑quality parts on time. Their attention to detail is unmatched.”</p>
+    <p class="text-gray-700 italic">“Small Manufacturing Co. consistently delivers high-quality parts on time. Their attention to detail is unmatched.”</p>
     <p class="mt-2 font-semibold">— Alex R., Automotive Supplier</p>
     </div>
 

@@ -9,7 +9,6 @@ Our commitment to quality and efficiency makes us a trusted partner.
 
 
     <div class="grid md:grid-cols-3 gap-6">
-    <!-- Service Card Template: flex column + push CTA to bottom -->
 
 
     <!-- Service 1 -->
