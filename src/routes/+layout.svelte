@@ -60,7 +60,31 @@
 	{@render children()}
   </div>
   
-  <footer class="text-center text-gray-500 p-6 text-sm">
-    © 2025 Small Manufacturing Co.
-  </footer>
+<footer class="bg-gray-100 border-t border-gray-200">
+  <div class="max-w-4xl mx-auto px-6 py-8 text-sm text-gray-600 flex flex-col md:flex-row items-center justify-between gap-4">
+
+    <!-- Left: Copyright -->
+    <div>
+      © 2025 Small Manufacturing Co.
+    </div>
+
+    <!-- Right: Footer Navigation -->
+    <nav class="flex gap-6">
+      <a href="/about" class="hover:text-blue-700 transition">
+        About
+      </a>
+      <a href="/services" class="hover:text-blue-700 transition">
+        Services
+      </a>
+      <a href="/careers" class="hover:text-blue-700 transition">
+        Careers
+      </a>
+      <a href="/contact" class="hover:text-blue-700 transition">
+        Contact
+      </a>
+    </nav>
+
+  </div>
+</footer>
+
 </div>
